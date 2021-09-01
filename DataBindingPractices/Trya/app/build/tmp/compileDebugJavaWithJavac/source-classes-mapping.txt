@@ -1,6 +1,0 @@
-com/example/trya/BuildConfig.java
- com.example.trya.BuildConfig
-com/example/trya/DataBindingTriggerClass.java
- com.example.trya.DataBindingTriggerClass
-com/example/trya/databinding/ActivityMainBinding.java
- com.example.trya.databinding.ActivityMainBinding
